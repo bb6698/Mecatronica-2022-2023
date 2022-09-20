@@ -6,3 +6,5 @@ Esto es otra linea
 
 Esta palabra esta **negrita**
 
+![](Logo-urjc.png)
+
