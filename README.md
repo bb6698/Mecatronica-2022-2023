@@ -1,7 +1,5 @@
 # Mecatronica-2022-2023
 Repositorio personal para las prácticas de Mecátronica de la URJC 
 
-# Otro encabezado de nivel 1
-
-## Encabezado de nivel 2
+![](http://www.fanpop.com/clubs/penguins-of-madagascar/images/37800672/title/hello-photo)
 
